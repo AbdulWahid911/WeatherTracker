@@ -5,3 +5,8 @@ An app to display live weather updates for cities worldwide.
 - City search functionality
 - User-friendly interface
 Added app features to README.md
+
+## Tools:
+- HTML
+- CSS
+- JavaScript
